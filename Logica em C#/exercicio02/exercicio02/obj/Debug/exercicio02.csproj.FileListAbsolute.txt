@@ -1,0 +1,7 @@
+G:\My Drive\Dev_werner\Logica em C#\exercicio02\exercicio02\bin\Debug\exercicio02.exe.config
+G:\My Drive\Dev_werner\Logica em C#\exercicio02\exercicio02\bin\Debug\exercicio02.exe
+G:\My Drive\Dev_werner\Logica em C#\exercicio02\exercicio02\bin\Debug\exercicio02.pdb
+G:\My Drive\Dev_werner\Logica em C#\exercicio02\exercicio02\obj\Debug\exercicio02.csproj.AssemblyReference.cache
+G:\My Drive\Dev_werner\Logica em C#\exercicio02\exercicio02\obj\Debug\exercicio02.csproj.CoreCompileInputs.cache
+G:\My Drive\Dev_werner\Logica em C#\exercicio02\exercicio02\obj\Debug\exercicio02.exe
+G:\My Drive\Dev_werner\Logica em C#\exercicio02\exercicio02\obj\Debug\exercicio02.pdb
